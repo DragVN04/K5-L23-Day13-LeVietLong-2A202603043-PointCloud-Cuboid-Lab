@@ -13,6 +13,16 @@
   <img alt="hệ điều hành" src="https://img.shields.io/badge/Windows%20·%20macOS-lệnh%20giống%20nhau-7b61ff">
 </p>
 
+## Bài làm của Lê Việt Long
+
+Task cá nhân `D13-LEVIETLONG_2A202603043` có **85 cuboid trên 10 frame**. Lần tự kiểm cuối được ghi nhận có **8 cuboid cần xem lại**.
+
+- [Báo cáo cá nhân](report/individual/LEVIETLONG_2A202603043_LeVietLong.md)
+- [Bảng A](submission/D13-LEVIETLONG_2A202603043-bangA.csv)
+- [Phiếu tự kiểm](submission/D13-LEVIETLONG_2A202603043-tukiem.csv)
+
+## Đề bài
+
 Bạn sẽ đọc **10 frame LiDAR** của bộ VF, vẽ cuboid trong CVAT và dùng Bảng A để kiểm tra hướng, kích thước và độ cao đáy hộp.
 
 Trong vùng 360° quanh xe thu dữ liệu, chọn các vật cách LiDAR tối đa 50 m. Ưu tiên xe và người ở gần, có cụm điểm rõ. Ghi lại bốn hiện tượng ảnh hưởng đến việc gán nhãn và các trường hợp bạn còn chưa chắc.
